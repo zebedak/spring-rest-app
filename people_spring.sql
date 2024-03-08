@@ -42,8 +42,8 @@ CREATE TABLE `people` (
 --
 
 INSERT INTO `people` (`id`, `age`, `city`, `email`, `name`, `phone`, `skills`) VALUES
-(1, 36, 'Prague', 'schneiderj9@gmail.com', 'Jan Schneider', '+420737263888', 'JAVA'),
-(2, 36, 'Prague', 'schneiderj9@gmail.com', 'Jan Schneider', '+420737263888', 'JAVA');
+(1, 36, 'Prague', 'schneiderj9@gmail.com', 'Jan Schneider', '+420123456879', 'JAVA'),
+(2, 36, 'Prague', 'schneiderj9@gmail.com', 'Jan Schneider', '+420789456123', 'JAVA');
 
 --
 -- Indexy pro exportované tabulky
