@@ -1,1 +1,2 @@
-# spring-rest-app
+# Jednoduchá spring rest aplikace
+# napojená na mysql databázi
